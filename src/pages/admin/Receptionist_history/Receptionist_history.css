@@ -1,0 +1,8 @@
+.loading {
+  width: 100%;
+  min-height: 200px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

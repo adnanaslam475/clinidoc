@@ -1,0 +1,23 @@
+.loading {
+  min-height: 200px;
+  position: absolute;
+  align-items: center;
+  left: 25px;
+  justify-content: center;
+  display: flex;
+}
+
+.wrapper-class {
+  padding: 10px;
+  min-width: 470px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border: 1px solid rgb(223, 221, 221);
+}
+.editor-class {
+  /* background-color:rgb(160, 148, 148); */
+  width: 100%;
+  min-width: 200px;
+  min-height: 200px;
+  height: 100%;
+}

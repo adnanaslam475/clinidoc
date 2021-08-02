@@ -1,0 +1,50 @@
+
+.disabledLink{
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
+.disabledLink > a {
+    color: currentColor;
+    display: inline-block;  
+    pointer-events: none;
+    text-decoration: none;
+}
+
+.LoginInErrorMessage
+{
+    color:red;
+}
+
+.gradient-black-icon
+{
+    
+    background: -webkit-linear-gradient(#eee,#333) !important;
+    -webkit-background-clip: border-box;
+    -webkit-text-fill-color: transparent !important;
+    /* font-size: 1.8em !important; */
+    font-family: Georgia,"Times New Roman",Times,serif;
+    transition: opacity .8s linear;
+}
+
+.gradient-black{
+    font-weight: 700;
+    /* background: -webkit-linear-gradient(#272829,rgb(68, 53, 53)); */
+    background: #eee;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.8em;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    transition: opacity .8s linear;
+}
+
+.gradient-blue
+{
+    color: #fff;
+    font-family: Haettenschweiler;
+    letter-spacing: 3px;
+    font-size: 40px;
+    background: -webkit-linear-gradient(#008FFF,rgb(138, 138, 138));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

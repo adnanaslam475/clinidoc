@@ -1,0 +1,16 @@
+#Refferal_SideBar_List_Heading
+{
+    text-align: center;
+    font-weight: 640;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+#Appointment_Footer_Button
+{
+    background: #396CF0 !important;
+    color:white !important;
+    padding:10px 40px;
+    text-transform: none !important;
+    font-weight: 540;
+}

@@ -1,0 +1,50 @@
+.arrowButtonWrapper
+{
+    display: inline-block;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 50%;
+    /* background:green; */
+    text-align: center;
+    cursor: pointer;
+    z-index: 5;
+    vertical-align: middle;
+}
+
+.arrowButtonActive{
+    background:blue;
+}
+
+
+.arrowButton{
+    transform: rotate(90deg) translateY(5px);
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.arrowButtonActive #arrowButtonId
+{
+    transform: rotate(270deg) translateY(-7px);
+
+}
+
+.arrowButtonActiveDropDownWrapper
+{
+    background:blue;
+    width: calc(100% - 10px);
+    margin:auto;
+    border-radius: 50%;
+    padding-top: 5px;
+    /* height: px; */
+    position: relative;
+    cursor: pointer;
+}
+.arrowButtonActiveDropDown
+{
+    transform: rotate(180deg) translate(0px,1px);
+}
+
+/* .arrowButtonActive
+{
+
+} */

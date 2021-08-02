@@ -1,0 +1,96 @@
+#Refferal_SideBar_Container
+{
+    background: #F5F5F5;
+    width: calc(100% - 40px);
+    height:100%;
+    min-height: calc(100vh - 20px);
+    padding-top: 10px;
+    padding-left:20px;
+}
+
+#Referral_FormPage1_Container
+{
+    padding:20px;   
+}
+
+#Referral_FormPage1_Heading
+{
+    font-weight: 640;
+    font-size: 30px;
+}
+
+#Referral_FormPage1_SubHeading
+{
+    color: #5c5c5c;
+}
+
+.text-field-wrapper
+{
+    margin-top: 20px;
+    vertical-align: top;
+}
+
+#Referral_FormPage1_Cancel_Button
+{
+    width: 20%;
+    text-transform: none;
+    background: #818181;
+    color: #FFFFFF;
+}
+
+#Referral_FormPage1_Submit_Button
+{
+    width: 100%;
+    text-transform: none;
+    background: #396cf0;
+    margin-top: 2%;
+    color: #FFFFFF;
+}
+#Referral_FormPage1_Footer_Button
+{
+    height: 38%;
+    width: 20%;
+    text-transform: none;
+    background: #396cf0;
+    color: #FFFFFF;
+}
+#Patient_Info_Buttons1{
+    width: 17%;
+    text-transform: none;
+    color: #008FFF;
+    background: #FFFFFF;
+}
+#Patient_Info_Buttons2{
+    width: 20%;
+    text-transform: none;
+    background: #396cf0;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+#Refferal_Search_Buttons{
+    width: 170%;
+    text-transform: none;
+    background: #396cf0;
+    color: #FFFFFF;
+}
+
+
+
+#Refferal_SideBar_List_Wrapper
+{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.Refferal_SideBar_List_Item
+{
+    margin-top: 20px;
+    color: #5c5c5c;
+}
+
+.err-height-anim
+{
+    transition:all 0.4s ease;
+}

@@ -1,0 +1,27 @@
+#Refferal_List_Search_Button{
+    /* width: 170%; */
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom:7px;
+    margin-top: 1px;
+    text-transform: none;
+    background: #396cf0;
+    color: #FFFFFF;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.Refferal_List_Search_Field2
+{
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.Refferal_List_Search_Field1 > div      
+{
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}

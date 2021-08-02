@@ -1,0 +1,13 @@
+.slider-arrow {
+  position: absolute;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+}
+/* slick-arrow slick-prev */
+.arrow-btn {
+  top: 45%;
+}
+.next {
+  float: right;
+}

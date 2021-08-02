@@ -1,0 +1,22 @@
+.form-width-less-80px
+{
+    width: calc(100% - 80px) !important;
+}
+
+.referral-code-confirm-button{
+    height: 56px !important;
+    background-color: rgb(78, 78, 228) !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+.referral-code-text-field > div
+{
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.referral-code-icon
+{
+    color: white ;
+}

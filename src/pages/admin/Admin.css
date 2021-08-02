@@ -1,0 +1,13 @@
+.admin-drawer-margin {
+  margin-left: 53px;
+  width: calc(100% - 53px);
+  position: relative;
+  padding-top: 20px;
+}
+
+@media only screen and (min-width: 600px) {
+  .admin-drawer-margin {
+    margin-left: 73px;
+    width: calc(100% - 73px);
+  }
+}
